@@ -1,0 +1,20 @@
+table{
+    margin: auto;
+  }
+table>thead{
+    background-color:#2b5171;
+    color:#fff;
+  }
+h1, h2{
+    text-align: center;
+  }
+.form1{
+    width:50%;
+    margin:30px auto;
+  }
+.container{
+    width:70%;
+  }
+.error{
+    color:red;
+  }
