@@ -13,15 +13,15 @@ This Laravel demo application is using the same form for add and edit. It uses L
 
    DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=lara_form DB_USERNAME=root DB_PASSWORD=
 
-5.Run composer install from project root
+5. Run composer install from project root
 
-6.Run php artisan key:generate
+6. Run php artisan key:generate
 
-7.Run php artisan migrate. This will create Laravel default tables and also will create a custom table named categories.
+7. Run php artisan migrate. This will create Laravel default tables and also will create a custom table named categories.
 
 8. Run php artisan serve
 
-8. In Browser run localhost:8000/category
+9. In Browser run localhost:8000/category
 
 License
 This is an MIT license, you can modify the code according to your requirements
