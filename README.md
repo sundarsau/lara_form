@@ -3,23 +3,25 @@
 This Laravel demo application is using the same form for add and edit. It uses Laravel 10 and MySQL. It displays a list of product categories and option to Edit. The Add form is used for upadte also.
 
 # How To Use
-Download the repository from https://github.com/sundarsau/lara_form
+1. Download the repository from https://github.com/sundarsau/lara_form
 
-Extract it into a folder
+2. Extract it into a folder
 
-Create a Database in MySQL
+3. Create a Database in MySQL
 
-copy .env.example to .env and update database name, username and password. For example, I used the database lara_form and updated database details as below: DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=lara_form DB_USERNAME=root DB_PASSWORD=
+4. Copy .env.example to .env and update database name, username and password. For example, I used the database lara_form and updated database details as below:
 
-Run composer install from project root
+   DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=lara_form DB_USERNAME=root DB_PASSWORD=
 
-Run php artisan key:generate
+5.Run composer install from project root
 
-Run php artisan migrate. This will create Laravel default tables and also will create a custom table named categories.
+6.Run php artisan key:generate
 
-Run php artisan serve
+7.Run php artisan migrate. This will create Laravel default tables and also will create a custom table named categories.
 
-In Browser run localhost:8000/category
+8. Run php artisan serve
+
+8. In Browser run localhost:8000/category
 
 License
 This is an MIT license, you can modify the code according to your requirements
