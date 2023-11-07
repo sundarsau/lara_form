@@ -2,7 +2,7 @@
  Laravel - use the same form for add and update
 This Laravel demo application is using the same form for add and edit. It uses Laravel 10 and MySQL. It displays a list of product categories and option to Edit. The Add form is used for upadte also.
 
-#How To Use
+# How To Use
 Download the repository from https://github.com/sundarsau/lara_form
 
 Extract it into a folder
