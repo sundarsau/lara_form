@@ -1,6 +1,6 @@
-# Use Same blade file for create and update in Laravel
+# Use the Same Blade File for Create and Update in Laravel
  Laravel - use the same form for add and update
-This Laravel demo application is using the same form for add and edit. It uses Laravel 10 and MySQL. It displays a list of product categories and option to Edit. The Add form is used for upadte also.
+This Laravel demo application is using the same form for add and edit. It uses Laravel 10 and MySQL. It displays a list of product categories and option to Edit them. The Add form is used for upadate also. Tutorial - https://codehow2.com/laravel/how-to-use-the-same-form-for-add-and-edit-in-laravel
 
 # How To Use
 1. Download the repository from https://github.com/sundarsau/lara_form
